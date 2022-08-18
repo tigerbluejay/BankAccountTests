@@ -1,6 +1,6 @@
 # BankAccountTests
 
-This project builds on the existing Bank Account Project, referenced here: <a href="https://github.com/tigerbluejay/BankAccount">tigerbluejay/BankAccount: Simple Bank Account Demonstrating Classes and Objects, Exception Handling and Basic OOP (github.com)
+This project builds on the existing Bank Account Project, referenced here: <a href="https://github.com/tigerbluejay/BankAccount">tigerbluejay/BankAccount: Simple Bank Account Demonstrating Classes and Objects, Exception Handling and Basic OOP (github.com)</a>
 
 The project is essentially the same except Class Libraries have been moved to a separate Class Library Project, which now has a reference to Bank Account Project.
 
