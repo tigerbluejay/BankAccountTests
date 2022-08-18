@@ -1,0 +1,12 @@
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\bin\Debug\net6.0\MyBankLibrary.deps.json
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\bin\Debug\net6.0\MyBankLibrary.dll
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\bin\Debug\net6.0\MyBankLibrary.pdb
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.csproj.AssemblyReference.cache
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.AssemblyInfoInputs.cache
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.AssemblyInfo.cs
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.dll
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\refint\MyBankLibrary.dll
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\MyBankLibrary.pdb
+C:\Users\josem\source\BankAccountII\BankAccountSolution\MyBankLibrary\obj\Debug\net6.0\ref\MyBankLibrary.dll
