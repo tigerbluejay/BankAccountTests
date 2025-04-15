@@ -1,9 +1,3 @@
-# BankAccountTests
+# Bank Account Tests
 
-This project builds on the existing Bank Account Project, referenced here: <a href="https://github.com/tigerbluejay/BankAccount">tigerbluejay/BankAccount: Simple Bank Account Demonstrating Classes and Objects, Exception Handling and Basic OOP (github.com)</a>
-
-The project is essentially the same except Class Libraries have been moved to a separate Class Library Project, which now has a reference to Bank Account Project.
-
-There are some minor changes like more calls to the MakeWithrawal() function and a new xUnit Test Project with 3 Tests to demonstrate how tests work.
-
-The first Asserts.True(true) to make sure tests are working and the the other two tests Assert that exceptions are thrown when attempting to overdraft and make a deposit with a negative number.
+This project builds on the original BankAccount repository: https://github.com/tigerbluejay/BankAccount, which demonstrates basic object-oriented principles like classes, exception handling, and encapsulation in a simple banking context. In this version, the core bank logic has been separated into a class library project, which now references the original BankAccount project for improved modularity. Minor enhancements include additional calls to MakeWithdrawal() and the introduction of a new xUnit test project. This test suite contains three unit tests: one to confirm the testing framework is set up correctly and two that verify exception handling for overdrafts and negative deposits. The goal is to illustrate how to structure and write basic unit tests for object-oriented C# code.
